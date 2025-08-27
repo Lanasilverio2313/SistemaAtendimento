@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SistemaAtendimento.Controller
+namespace SistemaAtendimento.Repositories
 {
-    internal class CadastroClienteController
+    internal class ClienteRepository
     {
     }
 }

@@ -8,13 +8,48 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Sistema_Atendimento
+namespace SistemaAtendimento
 {
     public partial class FrmCadastroCliente : Form
     {
         public FrmCadastroCliente()
         {
             InitializeComponent();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnlTipoPessoa_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void lblTipoPessoa_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblPesquisar_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

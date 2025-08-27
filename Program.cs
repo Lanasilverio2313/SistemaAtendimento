@@ -1,4 +1,4 @@
-namespace Sistema_Atendimento
+namespace SistemaAtendimento
 {
     internal static class Program
     {
