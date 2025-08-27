@@ -1,6 +1,6 @@
 ﻿namespace SistemaAtendimento.View
 {
-    partial class FormCdastroEtapa
+    partial class FrmCdastroEtapa
     {
         /// <summary>
         /// Required designer variable.

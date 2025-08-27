@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemaAtendimento.View
 {
-    public partial class FrmCadastroStatusAtendimento : Form
+    public partial class FrmCadastroStituacaoAtendimento : Form
     {
-        public FrmCadastroStatusAtendimento()
+        public FrmCadastroStituacaoAtendimento()
         {
             InitializeComponent();
         }
